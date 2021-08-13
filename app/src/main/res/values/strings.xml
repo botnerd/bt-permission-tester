@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BT Permission Tester</string>
+
+    <string name="permissions_granted">Permissions Granted!</string>
+    <string name="permissions_denied">Permissions Denied!</string>
+
+    <string name="action_check_permissions">Check Permissions</string>
+</resources>
