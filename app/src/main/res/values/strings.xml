@@ -5,4 +5,6 @@
     <string name="permissions_denied">Permissions Denied!</string>
 
     <string name="action_check_permissions">Check Permissions</string>
+    <string name="action_start_advertising">Start Advertising</string>
+    <string name="action_stop_advertising">Stop Advertising</string>
 </resources>

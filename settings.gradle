@@ -7,3 +7,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "BT Permission Tester"
 include ':app'
+include ':sdk'

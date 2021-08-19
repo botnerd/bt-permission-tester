@@ -13,7 +13,17 @@ class MainViewModel : ViewModel() {
     callback?.onRequestPermissionsClicked()
   }
 
+  fun onStartAdvertisingClicked() {
+    callback?.onStartAdvertising()
+  }
+
+  fun onStopAdvertisingClicked() {
+    callback?.onStopAdvertising()
+  }
+
   interface Callback {
     fun onRequestPermissionsClicked()
+    fun onStartAdvertising()
+    fun onStopAdvertising()
   }
 }
